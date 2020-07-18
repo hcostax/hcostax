@@ -2,14 +2,16 @@
 
 ### Hello! 👋 Welcome to my profile
 
-I'm Master in Applied Economics, and passionate about empirical validation analysis that resulted in a romance with Data Science. I have “revealed preference” for 100% Arabica coffee, pizza 🍕, microeconomics, econometrics, microeconometry and R.
+I'm Master in Applied Economics, and passionate about empirical validation analysis that resulted in a romance with Data Science. I have “revealed preference” for 100% Arabica coffee  :coffee:, pizza 🍕, microeconomics, econometrics, microeconometrics and R.
 
- - 📌 Skills: TidyVerse Coding, DataViz, Econometric Modeling,Analysis Report and Business Insights
- - 💙 In love with Data Science
- - 📚 I’m currently studying Econometrics and Machine Learning
- - 🌱 I’m currently learning Data Science 
- - 😄 In my free time I usually play games, watch series and read mangá
- - ⚡ @codepwr on instagram: tips for beginners and support for man in technology
+My motto is: The whole intention of empirical economics is to force theory down to Earth. - *George Akerlof*
+
+ - :man_office_worker: I’m currently working with economic scenarios for pension funds
+ - :scroll: Skills: TidyVerse Coding, DataViz, Econometric Modeling, Analysis Report and Business Insights
+ - :alien: I’m currently studying Econometrics and Machine Learning
+ - :flying_saucer: I’m currently learning Data Science 
+ - :zap: [@ultim8.r](www.instagram.com/hcostax/) on instagram: tips for beginners and support for economics
+ - :bulb:	In my free time I usually play games, watch series and read mangá
  
  ----
  
