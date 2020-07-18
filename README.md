@@ -1,16 +1,13 @@
-### Hi there 👋
+# Henrique Costa :man_technologist:
 
-<!--
-**hcostax/hcostax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello! 👋 Welcome to my profile
 
-Here are some ideas to get you started:
+I'm front-end developer and UI/UX designer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 📌 Skills: HTML, CSS, JavaScript, Bootstrap, jQuery, Quasar, Node.js
+ - 💙 In love with Front-end
+ - 📚 Currently learning Vue.js and Angular
+ - 😄 In my free time I usually play games, draw, watch series and do yoga
+ - ⚡ @codepwr on instagram: tips for beginners and support for women in technology
+ 
+ ----
