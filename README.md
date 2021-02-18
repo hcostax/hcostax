@@ -6,11 +6,11 @@ I'm Master in Applied Economics, and passionate about empirical validation analy
 
 My motto is: The whole intention of empirical economics is to force theory down to Earth. - *George Akerlof*
 
- - :man_office_worker: I’m currently working with economic scenarios for pension funds
+ - :man_office_worker: I’m currently working as risk analyst and econometrics modelling at a rating agency
  - :scroll: Skills: TidyVerse Coding, DataViz, Econometric Modeling, Analysis Report and Business Insights
  - :alien: I’m currently studying Econometrics and Machine Learning
  - :flying_saucer: I’m currently learning Data Science 
- - :zap: [@ultim8.r](www.instagram.com/hcostax/) on instagram: tips for beginners and support for economics
+ - :zap: [@hcostax](www.instagram.com/hcostax/) on instagram: tips for beginners and support for economics
  - :bulb:	In my free time I usually play games, watch series and read mangá
  
  ----
@@ -24,7 +24,7 @@ My motto is: The whole intention of empirical economics is to force theory down 
 
 If you want to get in touch, feel free to say *"Hello World"* through any of my social networks.
 
-<p> <a href="https://keybase.io/hcostax"><img src="https://img.shields.io/badge/keybase-%2333A0FF.svg?&style=for-the-badge&logo=keybase&logoColor=white" height=25></a>  <a href="https://www.twitter.com/hcostax"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.instagram.com/hcostax/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/hcostax"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> </p>
+<p>  <a href="https://www.twitter.com/hcostax"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.instagram.com/hcostax/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/hcostax"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> </p>
 
 
 
