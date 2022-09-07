@@ -6,7 +6,7 @@ I'm Master in Applied Economics, and passionate about empirical validation analy
 
 My motto is: The whole intention of empirical economics is to force theory down to Earth. - *George Akerlof*
 
- - :man_office_worker: I’m currently working as risk analyst and econometrics modelling at a rating agency
+ - :man_office_worker: I’m currently working as risk analyst and econometrics modelling at banking sector
  - :scroll: Skills: TidyVerse Coding, DataViz, Econometric Modeling, Analysis Report and Business Insights
  - :alien: I’m currently studying Econometrics and Machine Learning
  - :flying_saucer: I’m currently learning Data Science 
